@@ -2,5 +2,5 @@
   java.utils包下
   Collection/Map接口
   1）集合接口有6个 list set iterator  listIterator  collection map  这6个接口
-  2）zheli wen 
+  2）zheli5 wen 
   
